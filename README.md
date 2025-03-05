@@ -36,7 +36,7 @@ I am a data-driven professional with expertise in **Data Engineering, Machine Le
 ## 📫 Connect with Me
 🔗 [LinkedIn](https://www.linkedin.com/in/hrishikeshgr)  
 💌 Email: hrishi.rag@gmail.com  
-🌐 [Portfolio (https://www.datascienceportfol.io/hrishirag)](#)
+🌐 [Portfolio] (https://www.datascienceportfol.io/hrishirag)](#)
 
 📢 **Seeking full-time opportunities** in **Data Engineering, Data Science, or ML Ops**. Let’s connect and collaborate!
 
