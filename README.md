@@ -22,6 +22,10 @@ I am a data-driven professional with expertise in **Data Engineering, Machine Le
 ### **4. NammaYatri Data Analytics** 
 [🔗 Project Link](https://github.com/hrishii1/SQL-Analytics-Nammayatri)
 - Simulated real-world ride-hailing data to perform in-depth SQL analysis and build an interactive Power BI dashboard. The project covers user behavior, driver performance, peak-hour trends, and geo-distribution insights using MySQL and Power BI. Includes advanced SQL techniques like window functions and anomaly detection for operational analytics.
+
+  ### **5. Complete Exploratory Data Analysis**
+  [🔗 Project Link](https://github.com/hrishii1/EDA)
+- Exploratory Data Analysis (EDA) projects across different datasets, focusing on data cleaning, visualization, and feature analysis. Each project highlights key insights and prepares the data for further modeling.
   
 
 ## 🔥 Skills & Tech Stack
