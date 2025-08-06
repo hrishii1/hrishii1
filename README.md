@@ -4,16 +4,17 @@ I am a data-driven professional with expertise in **Data Engineering, Machine Le
 
 ## 📌 Featured Projects
 ### **1. Smart Inventory Management System with Voice Control** 🏪🔊
-[🔗 Project](https://github.com/hrishii1/Smart-Inventory-Ecosystem)
+[🔗 Project Link](https://github.com/hrishii1/Smart-Inventory-Ecosystem)
 - Developed a **YOLOv8-based object detection** system with **voice control**.
 - Integrated **AWS SageMaker** for ML model training and ESP32 for **IoT monitoring**.
 - Built a **Power BI dashboard** for real-time insights into product inventory.
 
 ### **2. Autonomous Underwater Vehicle (AUV) Research** 🤖🌊
+- [🔗 Project Link]([https://github.com/yourusername/data-dashboard](https://github.com/hrishii1/AUV-CSUF-Independent_Study)) 
 - Implemented **Faster R-CNN & SSD** models for underwater object detection.
 - Processed **sonar imaging data** and optimized thruster angles for maneuverability.
 - Improved **target identification accuracy by 30%**.
-- [📊 Data Dashboard](https://github.com/yourusername/data-dashboard) – Interactive dashboard using...
+– Interactive dashboard using...
 
 ![Project One](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-one)
 
