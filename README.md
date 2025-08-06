@@ -10,7 +10,7 @@ I am a data-driven professional with expertise in **Data Engineering, Machine Le
 - Built a **Power BI dashboard** for real-time insights into product inventory.
 
 ### **2. Autonomous Underwater Vehicle (AUV) Research** 🤖🌊
-- [🔗 Project Link]([https://github.com/yourusername/data-dashboard](https://github.com/hrishii1/AUV-CSUF-Independent_Study)) 
+[🔗 Project Link](https://github.com/hrishii1/AUV-CSUF-Independent_Study)
 - Implemented **Faster R-CNN & SSD** models for underwater object detection.
 - Processed **sonar imaging data** and optimized thruster angles for maneuverability.
 - Improved **target identification accuracy by 30%**.
