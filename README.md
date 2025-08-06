@@ -4,7 +4,7 @@ I am a data-driven professional with expertise in **Data Engineering, Machine Le
 
 ## 📌 Featured Projects
 ### **1. Smart Inventory Management System with Voice Control** 🏪🔊
-- [🔗Project]([https://github.com/yourusername/project-one](https://github.com/hrishii1/Smart-Inventory-Ecosystem))
+[🔗 Project](https://github.com/hrishii1/Smart-Inventory-Ecosystem)
 - Developed a **YOLOv8-based object detection** system with **voice control**.
 - Integrated **AWS SageMaker** for ML model training and ESP32 for **IoT monitoring**.
 - Built a **Power BI dashboard** for real-time insights into product inventory.
