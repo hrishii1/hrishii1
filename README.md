@@ -14,10 +14,15 @@ I am a data-driven professional with expertise in **Data Engineering, Machine Le
 - Implemented **Faster R-CNN & SSD** models for underwater object detection.
 - Processed **sonar imaging data** and optimized thruster angles for maneuverability.
 - Improved **target identification accuracy by 30%**.
-– Interactive dashboard using...
 
-![Project One](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-one)
+### **3. PySpark Databricks complete tutorial** 
+[🔗 Project Link](https://github.com/hrishii1/PySpark-Databricks)
+- Created a comprehensive PySpark tutorial on Databricks as part of a university program, covering topics from basics to advanced — including DataFrames, RDDs, SQL, UDFs, window functions, joins, and performance optimization.
 
+### **4. NammaYatri Data Analytics** 
+[🔗 Project Link](https://github.com/hrishii1/SQL-Analytics-Nammayatri)
+- Simulated real-world ride-hailing data to perform in-depth SQL analysis and build an interactive Power BI dashboard. The project covers user behavior, driver performance, peak-hour trends, and geo-distribution insights using MySQL and Power BI. Includes advanced SQL techniques like window functions and anomaly detection for operational analytics.
+  
 
 ## 🔥 Skills & Tech Stack
 - **Programming & Scripting:** Python, SQL (MySQL, PostgreSQL), Scala, R, baash/shell scripting, NoSQL (Cassandra, MongoDB)
