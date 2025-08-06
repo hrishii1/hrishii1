@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Hrishikesh GR 
 ## 🚀 About Me
-I am a data-driven professional with expertise in **Data Engineering, Machine Learning Ops, and Data Analytics**. With nearly **4 years at Amazon** working on Alexa’s shopping domain as Sr.Machine Learning Data Associate and a **Master’s in Computer Engineering** from **California State University, Fullerton**, I am passionate about scalable data solutions and AI-driven insights.
+I am a data-driven professional with expertise in **Data Engineering, Machine Learning Ops, and Data Analytics**. With nearly **4 years at Amazon** working on Alexa’s shopping domain as Sr.Machine Learning Data Operations Associate and a **Master’s in Computer Engineering** from **California State University, Fullerton**, I am passionate about scalable data solutions and AI-driven insights.
 
 ## 📌 Featured Projects
 ### **1. Smart Inventory Management System with Voice Control** 🏪🔊
@@ -23,13 +23,12 @@ I am a data-driven professional with expertise in **Data Engineering, Machine Le
 [🔗 Project Link](https://github.com/hrishii1/SQL-Analytics-Nammayatri)
 - Simulated real-world ride-hailing data to perform in-depth SQL analysis and build an interactive Power BI dashboard. The project covers user behavior, driver performance, peak-hour trends, and geo-distribution insights using MySQL and Power BI. Includes advanced SQL techniques like window functions and anomaly detection for operational analytics.
 
-  ### **5. Complete Exploratory Data Analysis**
-  [🔗 Project Link](https://github.com/hrishii1/EDA)
+### **5. Complete Exploratory Data Analysis**
+[🔗 Project Link](https://github.com/hrishii1/EDA)
 - Exploratory Data Analysis (EDA) projects across different datasets, focusing on data cleaning, visualization, and feature analysis. Each project highlights key insights and prepares the data for further modeling.
-  
 
 ## 🔥 Skills & Tech Stack
-- **Programming & Scripting:** Python, SQL (MySQL, PostgreSQL), Scala, R, baash/shell scripting, NoSQL (Cassandra, MongoDB)
+- **Programming & Scripting:** Python, SQL (MySQL, PostgreSQL), Scala, R, Bash/Shell scripting, NoSQL (Cassandra, MongoDB)
 - **Big Data & ETL Tools:** Apache Spark (PySpark, Spark SQL), Hadoop, Airflow, Kafka, Flink, dbt, Streamlit
 - **Cloud Platforms:** AWS (S3, Glue, Lambda, Redshift, EMR), Azure (ADF, Synapse, Stream Analytics), Databricks, Terraform
 - **DevOps:** Docker, Kubernetes, CI/CD (Jenkins/GitHub Actions)
@@ -39,14 +38,14 @@ I am a data-driven professional with expertise in **Data Engineering, Machine Le
 - **Machine Learning Integration:** MLflow, TensorFlow, PyTorch
 
 ## 🏆 Experience
-### **Senior ML Data Associate | Amazon (2018 - 2022)**
-- Developed ETL pipelines and optimized **ML models** for Alexa Shopping.
-- Processed datasets up to **1TB** using **AWS Athena**, improving CX scores by **15%**.
-- Conducted **device testing & automation**, reducing errors in AI interactions.
-- Built **SQL dashboards** to monitor ML model performance.
-- Worked on **schema evolution**, **partitioned datasets** (1TB+), and **SQL query optimization** using AWS Athena.
-- Conducted **ML ops** activities, **device testing**, and contributed to model training workflows.
-- **Transformed unstructured voice interaction data** (JSON format) from device testing activities into a structured format using AWS tools (Glue, Lambda, S3, Kinesis) and leveraged Athena for anomaly detection, resolving sales bugs, and boosting GSR metrics by **600 bps**.
+
+### Data Analytics & Machine Learning Fellow Trainee | ElevateMe Bootcamp  (Jul 2025 - Present)                                                                                                                                      
+- Engaging in 150+ hours of hands-on learning and project work, including active participation in a live project and two optional capstone projects.
+- Apply data analytics and machine learning techniques to address real-world problems.
+- Utilize advanced tools such as **Python, Jupyter Notebooks, Pandas, Numpy, Matplotlib, Seaborn, and Scikit-learn** to build and evaluate machine learning models.
+- **Deploy machine learning models** on Microsoft Azure, integrating Azure ML with Azure SQL databases to enable real-time analytics and predictions.
+- Perform **data preprocessing, feature engineering, and model selection, and evaluate regression, classification, and clustering algorithms** to optimize performance.
+- Collaborate in a professional team environment using tools like **Jira, Confluence, and Slack** for project management and effective communication.
 
 
 ### **Data Engineer - I | Dreamline AI (2024 - Present)**
@@ -55,6 +54,19 @@ I am a data-driven professional with expertise in **Data Engineering, Machine Le
 - Worked with **AWS (Glue, Lambda, Athena, S3)** and **Azure (ADF, Synapse, Stream Analytics)**.
 - Built a **data ingestion pipeline** using **Python (Requests, BeautifulSoup, and APIs)** to collect economic incentive data from multiple U.S. state websites and public APIs, storing in cloud for analytical workflows.
 
+###  Student Research Assistant: Part-time |  Social Science Research Center, CSUF (2022 - 2024) 
+- **Migrated** manually stored student experience and outcome survey data (**50,000 records**) from **on-prem** to **Azure Blob, MySQL Server**, improving data accessibility, reliability, and supporting analytics initiatives across 60+ California public universities.
+- Collected and managed outreach program data for Southern California, implementing an **audit mechanism** to evaluate peer data accuracy, increasing validation efficiency and ensuring 95%+ data quality.
+  
+### **Senior ML Data Operations Associate: Echo Family Devices | Amazon (2018 - 2022)**
+- Developed ETL pipelines and optimized **ML models** for Alexa Shopping.
+- Processed datasets up to **1TB** using **AWS Athena**, improving CX scores by **15%**.
+- Conducted **device testing & automation**, reducing errors in AI interactions.
+- Built **Quicksight dashboards** to monitor ML model performance.
+- Worked on **schema evolution**, **partitioned datasets** (1TB+), and **SQL query optimization** using AWS Athena.
+- Conducted **ML ops** activities, **device testing**, and contributed to model training workflows.
+- **Transformed unstructured voice interaction data** (JSON format) from device testing activities into a structured format using AWS tools (Glue, Lambda, S3, Kinesis) and leveraged Athena for anomaly detection, resolving sales bugs, and boosting GSR metrics by **600 bps**.
+- **Subject Matter Expert** for In-store data process, collaborated with stakeholders across domains to manage data ingestion into **AWS data lake**, and monitored workflow using **EventBridge** and **SNS**.
 
 ## 📫 Connect with Me
 🔗 [LinkedIn](https://www.linkedin.com/in/hrishikeshgr)  
